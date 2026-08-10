@@ -4,6 +4,12 @@
 
 This project simulates a sales database and performs SQL analysis to extract business insights such as revenue, ticket average, top-selling products and sales trends over time.
 
+## 🎬Demonstration 
+
+In this video I am using some queries to run tests.
+
+https://github.com/user-attachments/assets/25f2412b-167e-4762-b8bc-3b6311955624
+
 ## 🎯 Objective
 
 Practice SQL queries focused on business analysis and KPIs commonly used by Data Analysts.
